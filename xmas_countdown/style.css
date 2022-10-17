@@ -1,0 +1,31 @@
+#vystup
+{
+    font-size: 50px;
+
+    margin-left: 28%;
+
+    font-style: bald;
+    background-color: rgb(80, 80, 207);
+    margin-top: 5%;
+
+    text-align: center;
+    width: 43%;
+    border: 5px outset rgb(141, 141, 141);
+
+
+}
+
+html
+{
+    background-color: rgb(159, 196, 114);
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#ctverec
+{
+    width: 100px;
+    background-color: orange;
+
+}
